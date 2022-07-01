@@ -1,0 +1,208 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "title": "Suffer",
+      "artist": "Bad Religion",
+      "genre": "Punk",
+      "year": "1988",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "26:13",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/9/9c/BadReligionSuffer.jpg",
+      "price": "120"
+    },
+
+    {
+      "id": 2,
+      "title": "No Control",
+      "artist": "Bad Religion",
+      "genre": "Punk",
+      "year": "1989",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "26:25",
+      "cover": "https://i.redd.it/6x4ihq5c41w11.jpg",
+      "price": "140"
+    },
+
+    {
+      "id": 3,
+      "title": "Against The Grain",
+      "artist": "Bad Religion",
+      "genre": "Punk",
+      "year": "1990",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "34:27",
+      "cover": "https://a.allegroimg.com/s400/11537c/b76b15d248b4af6d384c5399aca5/Bad-Religion-Against-The-Grain-CD",
+      "price": "180"
+    },
+
+    {
+      "id": 4,
+      "title": "The Dark Side of the Moon",
+      "artist": "Pink Floyd",
+      "genre": "Rock progresywny",
+      "year": "1973",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "43:00",
+      "cover": "https://a.allegroimg.com/original/11e6a5/5b8a729c40d8bc8ff2ded803ecd3/PINK-FLOYD-DARK-SIDE-OF-THE-MOON-2011",
+      "price": "120"
+    },
+
+    {
+      "id": 5,
+      "title": "Lucky/Shattered Milo",
+      "artist": "Descendents",
+      "genre": "Punk",
+      "year": "1996",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "5:00",
+      "cover": "http://4.bp.blogspot.com/-stz9XD6W0xk/WQ4pauQN81I/AAAAAAAAW6A/kLNo7a9bzpAygsffPsWwRipkNKmG_BeIQCK4B/s1600/cover.jpg",
+      "price": "60"
+    },
+
+    {
+      "id": 6,
+      "title": "9th & Walnut",
+      "artist": "Descendents",
+      "genre": "Punk",
+      "year": "2021",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "34:27",
+      "cover": "https://res.cloudinary.com/epitaph/image/upload/h_925,w_925/v1/epitaph/releases/87843_Descendents_9thWalnut",
+      "price": "120"
+    },
+
+    {
+      "id": 7,
+      "title": "Scream Bloody Gore",
+      "artist": "Death",
+      "genre": "Death Metal",
+      "year": "1987",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "37:51",
+      "cover": "https://image.ceneostatic.pl/data/products/44890312/i-scream-bloody-gore-reedycja-cd.jpg",
+      "price": "150"
+    },
+
+    {
+      "id": 8,
+      "title": "Leprosy",
+      "artist": "Death",
+      "genre": "Death Metal",
+      "year": "1988",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "38:24",
+      "cover": "https://image.ceneostatic.pl/data/products/29802781/i-death-leprosy-limited-cd.jpg",
+      "price": "160"
+    },
+
+    {
+      "id": 9,
+      "title": "The Sound of Perseverance",
+      "artist": "Death",
+      "genre": "Death Metal",
+      "year": "1998",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "56:21",
+      "cover": "https://images-na.ssl-images-amazon.com/images/I/715GJ1JF-mL._SX466_.jpg",
+      "price": "170"
+    },
+
+    {
+      "id": 10,
+      "title": "Atom Heart Mother",
+      "artist": "Pink Floyd",
+      "genre": "Rock progresywny",
+      "year": "1970",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "52:44",
+      "cover": "https://ravesfromthegrave.com/wp-content/uploads/2020/03/atom-heart.jpg",
+      "price": "90"
+    },
+
+    {
+      "id": 11,
+      "title": "Is This Real?",
+      "artist": "Wipers",
+      "genre": "Punk",
+      "year": "1970",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "33:55",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/bd/Wipers_-_Is_This_Real_cover.jpg",
+      "price": "90"
+    },
+
+    {
+      "id": 12,
+      "title": "Plastic Surgery Disasters",
+      "artist": "Dead Kennedys",
+      "genre": "Punk",
+      "year": "1982",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "42:56",
+      "cover": "https://fanart.tv/fanart/music/37c78aeb-d196-42b5-b991-6afb4fc9bc2e/albumcover/plastic-surgery-disasters-5e361df8ce83c.jpg",
+      "price": "180"
+    },
+
+    {
+      "id": 13,
+      "title": "Energy",
+      "artist": "Operation Ivy",
+      "genre": "Punk",
+      "year": "1989",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "36:48",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/Operation_Ivy_-_Energy_%281989%29.jpg",
+      "price": "150"
+    },
+
+    {
+      "id": 14,
+      "title": "Fresh Fruit For Rotten Vegetables",
+      "artist": "Dead Kennedys",
+      "genre": "Punk",
+      "year": "1980",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "33:03",
+      "cover": "https://image.ceneostatic.pl/data/products/32247794/i-dead-kennedys-fresh-fruit-for-rotting-winyl.jpg",
+      "price": "160"
+    },
+
+    {
+      "id": 15,
+      "title": "Queen Is Dead",
+      "artist": "The Smiths",
+      "genre": "Rock",
+      "year": "1986",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "37:07",
+      "cover": "https://image.ceneostatic.pl/data/products/49343020/i-queen-is-dead-the-smiths-winyl.jpg",
+      "price": "110"
+    },
+
+    {
+      "id": 16,
+      "title": "Lateralus",
+      "artist": "Tool",
+      "genre": "Metal progresywny",
+      "year": "2001",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "78:51",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/6/63/Tool_-_Lateralus.jpg",
+      "price": "260"
+    },
+
+    {
+      "id": 17,
+      "title": "Undertow",
+      "artist": "Tool",
+      "genre": "Metal progresywny",
+      "year": "1993",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis eleifend leo. Suspendisse diam dui, maximus a sagittis sollicitudin, ultrices quis est. Praesent in risus nibh. Nunc ullamcorper mi justo. Proin porttitor nisl ac nulla mattis rhoncus. Nunc vitae nisl maximus, accumsan lorem et, efficitur nulla. Cras quis venenatis leo. Nulla felis urna, convallis at pellentesque eget, porttitor eget mauris. Mauris volutpat dolor at nisi consequat, non sollicitudin lectus congue. Integer maximus dictum purus, quis auctor nisl facilisis sit amet.",
+      "duration": "69:13",
+      "cover": "https://a.allegroimg.com/s1024/0c93af/fd34e62d4f9aaf917be915b24e26",
+      "price": "140"
+    }
+
+  ]
+}
